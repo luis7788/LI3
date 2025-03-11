@@ -2,7 +2,7 @@
 
 Projeto desenvolvido na unidade curricular de Laboratórios de Informática 3 no curso de Licenciatura em Engenharia Informática da Universidade do Minho.
 
-O projeto tem como objetivo a criação de sistema de streaming de músicas, como pode ver nos enunciados da [fase1](Enunciado Fase1.pdf) e da [fase2](Enunciados Fase2.pdf)
+O projeto tem como objetivo a criação de sistema de streaming de músicas, como pode ver nos enunciados da fase 1 e da fase 2.
 
 ## Execução do Programa
 
