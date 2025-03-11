@@ -1,5 +1,46 @@
-# Laboratórios de Informática III (2024/2025)
+# Projeto LI3
 
-* Duarte Escairo Brandão Reis Silva - A106936 - darteescar
-* Luís António Peixoto Soares - A106932 - luis7788
-* Tiago Silva Figueiredo - A106856 - tiagofigueiredo7
+Projeto desenvolvido na unidade curricular de Laboratórios de Informática 3 no curso de Licenciatura em Engenharia Informática da Universidade do Minho.
+
+O projeto tem como objetivo a criação de sistema de streaming de músicas, como pode ver nos enunciados da [fase1](Enunciado Fase1.pdf) e da [fase2](Enunciados Fase2.pdf)
+
+## Execução do Programa
+
+Para compilar o código basta fazer: 
+
+```console
+$ cd trabalho-pratico
+$ make
+```
+
+### Programa-principal
+
+```console
+$ ./programa-principal dataset/ input.txt
+```
+
+### Programa-testes
+
+```console
+$ ./programa-testes dataset/ input.txt expected-output/
+```
+
+### Programa-iterativo
+
+```console
+$ ./programa-iterativo
+```
+
+## Limpez de ficheiros
+
+Para remover os ficheiros criados durante a compilação do projeto basta digitar:
+
+```console
+$ make clean
+```
+
+## Grupo responsável pela realização do projeto
+
+* Duarte Escairo Brandão Reis Silva - darteescar
+* Luís António Peixoto Soares - luis7788
+* Tiago Silva Figueiredo - tiagofigueiredo7
