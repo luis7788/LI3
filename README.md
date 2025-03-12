@@ -6,7 +6,7 @@ O projeto tem como objetivo a criação de sistema de streaming de músicas, com
 
 ## Execução do Programa
 
-Para compilar o código basta fazer: 
+Para compilar o código e ter acesso aos programas disponíveis basta fazer: 
 
 ```console
 $ cd trabalho-pratico
@@ -41,6 +41,6 @@ $ make clean
 
 ## Grupo responsável pela realização do projeto
 
-* Duarte Escairo Brandão Reis Silva - darteescar
-* Luís António Peixoto Soares - luis7788
-* Tiago Silva Figueiredo - tiagofigueiredo7
+* Duarte Escairo Brandão Reis Silva - [darteescar](https://github.com/darteescar)
+* Luís António Peixoto Soares - [luis7788](https://github.com/luis7788)
+* Tiago Silva Figueiredo - [tiagofigueiredo7](https://github.com/tiagofigueiredo71)
