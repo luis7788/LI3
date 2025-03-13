@@ -31,7 +31,7 @@ $ ./programa-testes dataset/ input.txt expected-output/
 $ ./programa-iterativo
 ```
 
-## Limpez de ficheiros
+## Limpeza de ficheiros
 
 Para remover os ficheiros criados durante a compilação do projeto basta digitar:
 
@@ -44,3 +44,5 @@ $ make clean
 * Duarte Escairo Brandão Reis Silva - [darteescar](https://github.com/darteescar)
 * Luís António Peixoto Soares - [luis7788](https://github.com/luis7788)
 * Tiago Silva Figueiredo - [tiagofigueiredo7](https://github.com/tiagofigueiredo71)
+
+**Nota:** Os DataSets a usar nos diferentes programas não se encontram disponíveis neste repositório.
