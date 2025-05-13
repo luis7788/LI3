@@ -9,7 +9,7 @@ O projeto tem como objetivo a criação de sistema de streaming de músicas, com
 Para compilar o código e ter acesso aos programas disponíveis basta fazer: 
 
 ```console
-$ cd trabalho-pratico
+$ cd trabalho-pratico/
 $ make
 ```
 
