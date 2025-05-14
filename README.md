@@ -1,4 +1,4 @@
-# Projeto LI3
+# Projeto LI3(Português)
 
 Projeto desenvolvido na unidade curricular de Laboratórios de Informática 3 no curso de Licenciatura em Engenharia Informática da Universidade do Minho.
 
@@ -49,7 +49,7 @@ $ make clean
 
 **Nota:** Os DataSets a usar nos diferentes programas não se encontram disponíveis neste repositório.
 
-# LI3 Project
+# LI3 Project(English)
 
 This project was developed for the "Laboratórios de Informática 3" course in Computer Engineering at the University of Minho.
 
