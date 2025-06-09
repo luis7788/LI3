@@ -49,6 +49,8 @@ $ make clean
 
 **Nota:** Os DataSets a usar nos diferentes programas não se encontram disponíveis neste repositório.
 
+---
+
 # LI3 Project(English)
 
 This project was developed for the "Laboratórios de Informática 3" course in Computer Engineering at the University of Minho.
